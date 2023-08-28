@@ -5,29 +5,24 @@
 	<key>addToMenu</key>
 	<array/>
 	<key>developer</key>
-	<string>Frederik Berlaen</string>
+	<string>TypeMyType</string>
 	<key>developerURL</key>
-	<string>http://typemytype.com</string>
+	<string>http://www.typemytype.com</string>
 	<key>html</key>
-	<false/>
+	<true/>
 	<key>launchAtStartUp</key>
-	<integer>1</integer>
+	<true/>
 	<key>mainScript</key>
-	<string>polygonSelectionTool.py</string>
+	<string>lassoTool.py</string>
 	<key>name</key>
-	<string>RoboLasso</string>
+	<string>LassoTool</string>
 	<key>requiresVersionMajor</key>
-	<string>1</string>
+	<string>4</string>
 	<key>requiresVersionMinor</key>
-	<string>0</string>
+	<string>4b</string>
 	<key>timeStamp</key>
-	<real>1569326123.579704</real>
+	<real>1692988304.4005618</real>
 	<key>version</key>
-	<string>1.0.2</string>
-	<key>com.robofontmechanic.Mechanic</key>
-	<dict>
-		<key>repository</key>
-		<string>productiontype/RoboLasso</string>
-	</dict>
+	<string>2.0</string>
 </dict>
 </plist>
